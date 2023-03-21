@@ -1,0 +1,787 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"te",
+				"text-light"
+			],
+			[
+				"tex",
+				"text-light"
+			],
+			[
+				"lo",
+				"lower-alpha"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"border-",
+				"border-right"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"text",
+				"text-justify"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"mb",
+				"mb-4"
+			],
+			[
+				"TEX",
+				"text-center"
+			],
+			[
+				"se",
+				"section"
+			],
+			[
+				"i",
+				"img"
+			],
+			[
+				"co",
+				"col-md-6"
+			],
+			[
+				"bt",
+				"btn-primary"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"d-",
+				"d-flex"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"flex-",
+				"flex-wrap"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"fl",
+				"flex-column-reverse"
+			],
+			[
+				"btn",
+				"btn-info"
+			],
+			[
+				"nav-",
+				"nav-link"
+			],
+			[
+				"btn-o",
+				"btn-outline-danger"
+			],
+			[
+				"s",
+				"span"
+			],
+			[
+				"pag",
+				"pagination"
+			],
+			[
+				"page-",
+				"page-link"
+			],
+			[
+				"table-",
+				"table-responsive"
+			],
+			[
+				"ta",
+				"table-sm"
+			],
+			[
+				"bg-",
+				"bg-success"
+			],
+			[
+				"al",
+				"alert-dark"
+			],
+			[
+				"btn-",
+				"btn-primary"
+			],
+			[
+				"d",
+				"dropdown"
+			],
+			[
+				"dro",
+				"dropdown-item"
+			],
+			[
+				"na",
+				"navbar"
+			],
+			[
+				"navba",
+				"navbar-toggler"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"bu",
+				"button"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"back",
+				"background-attachment"
+			],
+			[
+				"backgro",
+				"background-repeat"
+			],
+			[
+				"cai",
+				"caixa2"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"repeat",
+				"repeat-x"
+			],
+			[
+				"repe",
+				"repeat-y"
+			],
+			[
+				"wh",
+				"white"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"bord",
+				"border-top"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"htm",
+				"html\thtml"
+			],
+			[
+				"w",
+				"white"
+			],
+			[
+				"h",
+				"h3"
+			],
+			[
+				"caixa",
+				"caixa-conteudo"
+			],
+			[
+				"line-",
+				"line-height"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"padding-",
+				"padding-bottom"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"onk",
+				"onkeyup"
+			],
+			[
+				"sp",
+				"span"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"dat",
+				"data2"
+			],
+			[
+				"data",
+				"data1"
+			],
+			[
+				"exi",
+				"exibirArtigo"
+			],
+			[
+				"cal",
+				"callbackSucesso"
+			],
+			[
+				"C",
+				"callbackErro"
+			],
+			[
+				"call",
+				"callbackSucesso"
+			],
+			[
+				"par",
+				"parseFloat"
+			],
+			[
+				"var",
+				"variavel1"
+			],
+			[
+				"varia",
+				"variavel1"
+			],
+			[
+				"nu",
+				"numeroInteiro"
+			],
+			[
+				"t",
+				"th"
+			],
+			[
+				"conteudo-",
+				"conteudo-secundario"
+			],
+			[
+				"aba",
+				"aba-direita"
+			],
+			[
+				"rep",
+				"repeat-x"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"list-style-",
+				"list-style-type"
+			],
+			[
+				"gre",
+				"green"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"un",
+				"underline"
+			],
+			[
+				"are",
+				"area-lateral"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"whi",
+				"width"
+			],
+			[
+				"conteud",
+				"conteudo"
+			],
+			[
+				"p",
+				"padding-top"
+			],
+			[
+				"background-",
+				"background-attachment"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"H",
+				"h1"
+			],
+			[
+				"borde",
+				"border-style"
+			],
+			[
+				"b",
+				"body"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/ivans/OneDrive/Área de Trabalho/cart3/index.html",
+			"settings":
+			{
+				"buffer_size": 10144,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/ivans/OneDrive/Área de Trabalho/cart3"
+	],
+	"file_history":
+	[
+		"/C/Users/ivans/OneDrive/Área de Trabalho/cart3/index.html",
+		"/C/Users/ivans/OneDrive/Área de Trabalho/cart3/servicos/usucapiao.html",
+		"/C/Users/ivans/OneDrive/Área de Trabalho/cart3/servicos/uniao-estavel.html",
+		"/C/Users/ivans/OneDrive/Área de Trabalho/cart3/servicos/servicos-compra-e-venda.html",
+		"/C/Users/ivans/OneDrive/Área de Trabalho/cart3/servicos/reconhecimento-de-firma.html",
+		"/C/Users/ivans/OneDrive/Área de Trabalho/cart3/servicos/procuracao.html",
+		"/C/Users/ivans/OneDrive/Área de Trabalho/cart3/servicos/inventario-e-partilha.html",
+		"/C/Users/ivans/OneDrive/Área de Trabalho/cart3/servicos/emancipacao.html",
+		"/C/Users/ivans/OneDrive/Área de Trabalho/cart3/servicos/e-notariado.html",
+		"/C/Users/ivans/OneDrive/Área de Trabalho/cart3/servicos/dut-eletronico.html",
+		"/C/Users/ivans/OneDrive/Área de Trabalho/cart3/servicos/doacao.html",
+		"/C/Users/ivans/OneDrive/Área de Trabalho/cart3/servicos/divorcio.html",
+		"/C/Users/ivans/OneDrive/Área de Trabalho/cart3/lgpd/politica-de-privacidade.html",
+		"/C/Users/ivans/OneDrive/Área de Trabalho/cart3/lgpd/o-que-e-lgpd.html",
+		"/C/Users/ivans/OneDrive/Área de Trabalho/cart3/lgpd/nomeacao-encarregado.html",
+		"/C/Users/ivans/OneDrive/Área de Trabalho/cart3/lgpd/canais-para-atendimento.html",
+		"/C/Users/ivans/OneDrive/Área de Trabalho/cart3/agenda-2030.html",
+		"/C/Users/ivans/OneDrive/Área de Trabalho/cart3/quem-somos.html",
+		"/C/Users/ivans/OneDrive/Área de Trabalho/cart3/contato.html",
+		"/C/Users/ivans/OneDrive/Área de Trabalho/cart3/lgpd/canais-para-atendimento",
+		"/C/Users/ivans/OneDrive/Área de Trabalho/cart3/css/estilo.css",
+		"/C/Users/ivans/OneDrive/Área de Trabalho/cart3/procuracao.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/Projeto Cart3/CSS/estilo.css",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/bootstrap4/apoio-alinhamento-grid.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/bootstrap4/apoio-barra-navegacao.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/bootstrap4/apoio-tamanhos-bordas.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/finans/index.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/finans/css/estilo.css",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/projeto-bootstrap4/index.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/bootstrap4/apoio-margin-wrap.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/bootstrap4/apoio-classes-flexbox.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/bootstrap4/apoio-configuracoes-grid.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/bootstrap4/apoio-grid.html",
+		"/C/Users/ivans/Downloads/2-arquivos-aula-elementos-flutuantes/bootstrap4/apoio-font-awesome.html",
+		"/C/Users/ivans/Downloads/2-arquivos-aula-elementos-flutuantes/bootstrap4/apoio-cartoes-parte1.html",
+		"/C/Users/ivans/OneDrive/Área de Trabalho/cart3/css.personalizado/estilo.css",
+		"/C/Users/ivans/OneDrive/Área de Trabalho/projeto-cartorio/css/estilo.css",
+		"/C/Users/ivans/OneDrive/Área de Trabalho/projeto-cartorio/index.html",
+		"/C/Users/ivans/Downloads/2-arquivos-aula-elementos-flutuantes/bootstrap4/apoio-tabelas-paginacao.html",
+		"/C/Users/ivans/Downloads/2-arquivos-aula-elementos-flutuantes/bootstrap4/apoio-alertas-barra-progresso.html",
+		"/C/Users/ivans/Downloads/2-arquivos-aula-elementos-flutuantes/bootstrap4/apoio-input-group.html",
+		"/C/Users/ivans/Downloads/2-arquivos-aula-elementos-flutuantes/bootstrap4/apoio-formularios.html",
+		"/C/Users/ivans/Downloads/2-arquivos-aula-elementos-flutuantes/bootstrap4/apoio-listas.html",
+		"/C/Users/ivans/Downloads/2-arquivos-aula-elementos-flutuantes/bootstrap4/apoio-barra-navegacao.html",
+		"/C/Users/ivans/Downloads/2-arquivos-aula-elementos-flutuantes/bootstrap4/apoio-botoes.html",
+		"/C/Users/ivans/Downloads/2-arquivos-aula-elementos-flutuantes/bootstrap4/apoio-breakpoints.html",
+		"/C/Users/ivans/Downloads/2-arquivos-aula-elementos-flutuantes/bootstrap4/apoio-tamanhos-bordas.html",
+		"/C/Users/ivans/Downloads/2-arquivos-aula-elementos-flutuantes/bootstrap4/apoio-margin-padding.html",
+		"/C/Users/ivans/Downloads/2-arquivos-aula-elementos-flutuantes/bootstrap4/elementos-flutuantes.html",
+		"/C/Users/ivans/Downloads/2-arquivos-aula-elementos-flutuantes/bootstrap4/apoio-cores-background.html",
+		"/C/Users/ivans/OneDrive/Documentos/bootstrap4/alinhamento-textos.html",
+		"/C/Users/ivans/OneDrive/Documentos/bootstrap4/index.html",
+		"/C/Users/ivans/OneDrive/Área de Trabalho/parallax/index.html",
+		"/C/Users/ivans/OneDrive/Área de Trabalho/parallax/css/estilo.css",
+		"/C/Users/ivans/OneDrive/Área de Trabalho/chale-hotel/css/estilo.css",
+		"/C/Users/ivans/OneDrive/Área de Trabalho/chale-hotel/index.html",
+		"/C/Users/ivans/OneDrive/Área de Trabalho/texte-imagens-carrocel/index.html",
+		"/C/Program Files/Sublime Text/index.html",
+		"/C/Users/ivans/OneDrive/Área de Trabalho/noticias-cidade/css/estilo.css",
+		"/C/Users/ivans/OneDrive/Área de Trabalho/noticias-cidade/fotos.html",
+		"/C/Users/ivans/OneDrive/Área de Trabalho/noticias-cidade/index.html",
+		"/C/Users/ivans/OneDrive/Área de Trabalho/noticias-cidade/brasil.html",
+		"/C/Users/ivans/OneDrive/Área de Trabalho/noticias-cidade/internacional.html",
+		"/C/Users/ivans/OneDrive/Área de Trabalho/noticias-cidade/saude.html",
+		"/C/Users/ivans/OneDrive/Área de Trabalho/noticias-cidade/economia.html",
+		"/C/Users/ivans/OneDrive/Área de Trabalho/noticias-cidade/ciencia.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/css3 intermediario e avançado/noticias-cidade/css/estilo.css",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/css3 intermediario e avançado/noticias-cidade/index.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/projeto-final-TecBlog/index.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/projeto-final-TecBlog/css/estilo.css",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/css3 intermediario e avançado/noticias-cidade/estilo.css/estilo.css",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/css3 intermediario e avançado/imagens-necessarias-site-noticias-cidade.zip",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/css3 intermediario e avançado/css/estilo.css",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/css3 intermediario e avançado/arredondamento.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/css3 intermediario e avançado/css/estilo-tabela.css",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/JavaScript/exer_4.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/JavaScript/dom_manipulando_classes.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/JavaScript/dom_manipulando_estilos.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/JavaScript/dom_manipulando_valores_inputs_text.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/JavaScript/eventos_formularios.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/JavaScript/eventos_janela.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/JavaScript/eventos_teclado.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/JavaScript/eventos_mouse.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/JavaScript/exer_fixacao_funcoes.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/JavaScript/funcoes_datas.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/JavaScript/funcoes_matematicas.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/JavaScript/funcoes_strings.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/JavaScript/funcoes_callback.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/JavaScript/funcoes_anonimas.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/JavaScript/funcoes.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/JavaScript/atividade_operadores_aritimeticos.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/JavaScript/switch.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/JavaScript/operadores_aritimeticos.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/JavaScript/exercicio.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/JavaScript/exercicio3.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/JavaScript/casting.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/JavaScript/ifesle_operadores_logicos.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/JavaScript/variaveis.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/JavaScript/concatenacao.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/JavaScript/meu_script.js",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/JavaScript/index.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/css3 intermediario e avançado/tabelas.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/css3 intermediario e avançado/layout.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/css3 intermediario e avançado/imagens/cabecalho.jpg",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/css3 intermediario e avançado/index.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/css3 intermediario e avançado/sobre.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/css3 intermediario e avançado/noticias.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/css3 intermediario e avançado/servicos.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/css3 intermediario e avançado/seletores.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/css3 intermediario e avançado/contato.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/css3 intermediario e avançado/heranca.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/Projeto Cart3/index.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/ProjetoCSS3 Intermediário/estilo.css",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/ProjetoCSS3 Intermediário/elementos-flutuantes-pratica.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/ProjetoTecBlog/index.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/ProjetoTecBlog/CSS/estilo.css",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/ProjetoCSS3 Intermediário/posicionamentos.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/ProjetoCSS3 Intermediário/elementos-flutuantes.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/ProjetoFinalAnnaBella/estilo.css",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/ProjetoFinalAnnaBella/index.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/ProjetoFinalAnnaBella/campanhas-publicitarias.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/Projeto Cart3/estilo.css",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/ProjetoCSS3 Intermediário/links.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/ProjetoCSS3 Intermediário/sobrepondo-elementos.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/ProjetoCSS3 Intermediário/modelo-caixa.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/ProjetoCSS3 Intermediário/elementos-inline-block.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/ProjetoCSS3 Intermediário/index.html",
+		"/C/Users/ivans/OneDrive/Documentos/CURSO DESENVOLVIMENTO WEB/ProjetoAnnaBella/index.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"></",
+			"Conteúdo",
+			"DOCTYPE",
+			"serif"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/ivans/OneDrive/Área de Trabalho/cart3/index.html",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 10144,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1870.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 224.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
